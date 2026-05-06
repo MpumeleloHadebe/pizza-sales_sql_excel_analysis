@@ -47,3 +47,6 @@ The repo includes the full set of 18 KPIs and analytical queries.
 -- Average order value
 SELECT SUM(total_price) / COUNT(DISTINCT order_id) AS avg_order_value
 FROM pizza_sales;
+
+## About Me
+I'm an aspiring data analyst with a focus on SQL and business intelligence.
