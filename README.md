@@ -1,11 +1,12 @@
 # 🍕 Pizza Sales Data Analysis: SQL Data Cleaning & Business Analytics
+**Full report with screenshots:** [Download PDF](./Pizza_Sales_Analysis_Report.pdf)
 
-**Tools:** SQL Server, SSMS, T-SQL
+**Tools:** SQL Server, SSMS, SQL
 
 ## Project Overview
 This end-to-end project demonstrates a complete data workflow in SQL:
 - Imported a raw CSV file with format inconsistencies
-- Performed all data cleaning and type conversion in T-SQL
+- Performed all data cleaning and type conversion in SQL
 - Answered 18 real-world business questions
 - Validated data quality
 
@@ -29,6 +30,7 @@ The repo includes the full set of 18 KPIs and analytical queries.
 |------|-------------|
 | `01_data_cleaning.sql` | Complete data import and type conversion script |
 | `02_analysis_queries.sql` | 18 SQL queries for business insights, data quality, etc. |
+|`Pizza_Sales_Analysis_Report.pdf` | Full report with screenshots (Word doc exported to PDF) |
 | `pizza_sales_sample.csv` | Sample of the cleaned data (first 100 rows) |
 
 ## How to Run This Project
@@ -38,7 +40,7 @@ The repo includes the full set of 18 KPIs and analytical queries.
 
 ## Skills Demonstrated
 - SQL data cleaning: staging tables, `TRY_CAST`, `TRY_CONVERT`, date format handling (105)
-- Business analytics: aggregations, window functions, `CASE` statements
+- Business analytics: aggregations, `CASE` statements, date/time functions
 - Data validation: missing value checks, type conversion validation
 - Documentation: clean, readable project structure
 
