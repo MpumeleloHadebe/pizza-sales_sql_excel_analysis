@@ -42,11 +42,7 @@ The repo includes the full set of 18 KPIs and analytical queries.
 - Data validation: missing value checks, type conversion validation
 - Documentation: clean, readable project structure
 
-## Sample Query
-```sql
--- Average order value
-SELECT SUM(total_price) / COUNT(DISTINCT order_id) AS avg_order_value
-FROM pizza_sales;
-
 ## About Me
 I'm an aspiring data analyst with a focus on SQL and business intelligence.
+
+
