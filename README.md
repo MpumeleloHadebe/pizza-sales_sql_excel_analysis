@@ -43,7 +43,7 @@ Examples:
 - Top 5 and bottom 5 best-selling pizzas
 - Daily and monthly trends
 
-📄 [View all 18 queries](./sql/02_analysis_queries.sql)
+ [View all 18 queries](./sql/02_analysis_queries.sql)
 
 ---
 
