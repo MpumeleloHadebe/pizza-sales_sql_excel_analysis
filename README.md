@@ -2,8 +2,7 @@
 
 **End-to-end data project** from raw CSV to interactive dashboards.
 
-![Excel Dashboard](./images/dashboard_excel.png)
-![Power BI Dashboard](./images/dashboard_powerbi.png)
+<img src="./images/dashboard_excel.png" alt="Excel Dashboard" width="400"/> <img src="./images/dashboard_powerbi.png" alt="Power BI Dashboard" width="400"/>
 
 ---
 
