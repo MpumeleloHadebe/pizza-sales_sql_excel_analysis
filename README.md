@@ -123,19 +123,3 @@ Examples:
 - Interactive slicers, clean UI
 
 ---
-
-## Repository Structure
-pizza-sales-data-analysis/
-├── sql/
-│ ├── 01_data_cleaning.sql
-│ └── 02_analysis_queries.sql
-├── excel/
-│ └── pizza_sales_dashboard.xlsx
-├── powerbi/
-│ └── pizza_sales_dashboard.pbix
-├── reports/
-│ └── pizza_sales_report.pdf
-├── images/
-│ ├── dashboard_excel.png
-│ └── dashboard_powerbi.png
-└── README.md
