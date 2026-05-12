@@ -2,7 +2,7 @@
 
 **End-to-end data project** from raw CSV to interactive dashboards.
 
-<img src="./images/dashboard_excel.png" alt="Excel Dashboard" width="400"/> <img src="./images/dashboard_powerbi.png" alt="Power BI Dashboard" width="400"/>
+<img src="./images/dashboard_excel.png" alt="Excel Dashboard" width="350"/> <img src="./images/dashboard_powerbi.png" alt="Power BI Dashboard" width="350"/>
 
 ---
 
